@@ -6,11 +6,16 @@ and educational services, regardless of credit score.
   <img src="Screenshots/MoneFi-BP-Fullscreen.png" alt="Business Profiles" width="500" style="align-center"/>
 </div>
 <div align="center">
-  <img src="Screenshots/MoneFi-BPD-Fullscreen.png" alt="Business Profiles" width="400"/>
-  <img src="Screenshots/MoneFi-BPDI-Fullscreen.png" alt="Business Profiles" width="400"/>
-  <img src="Screenshots/MoneFi-BPW3-Fullscreen.png" alt="Business Profiles" width="400"/>
-  <img src="Screenshots/MoneFi-BPWCU-Fullscreen.png" alt="Business Profiles" width="400"/>
+  <img src="Screenshots/MoneFi-BPD-Fullscreen.png" alt="Business Profiles Details" width="400"/>
+  <img src="Screenshots/MoneFi-BPDI-Fullscreen.png" alt="Business Profiles Income" width="400"/>
+  <img src="Screenshots/MoneFi-BPW3-Fullscreen.png" alt="Business Profiles Wizard" width="400" height="321"/>
+  <img src="Screenshots/MoneFi-BPWCU-Fullscreen.png" alt="Business Profiles Wizard Update" width="400"/>
 </div>
+<br>
+
+
+
+
 
 
 -Created a business profiles display component with search and filter functionality and built a front-end business profile creation wizard with React.js, implementing AJAX calls with Axios, and leveraging third-party libraries, including Loki, Formik, React-Bootstrap, and Yup for data validation.
