@@ -7,11 +7,9 @@ and educational services, regardless of credit score.
 ![Business-Profiles-Details](Screenshots/MoneFi-BPD-Fullscreen.png)
 ![Business-Profiles-Income](Screenshots/MoneFi-BPDI-Fullscreen.png)
 ![Business-Profiles-Location](Screenshots/MoneFi-BPM-Fullscreen.png)
-React Wizard component created with 3rd party library ![loki-react](https://github.com/JoaoCnh/react-loki)
+React wizard component created with third-party library [loki-react](https://github.com/JoaoCnh/react-loki)
 ![Business-Profiles-Wizard](Screenshots/MoneFi-BPW3-Fullscreen.png)
 ![Business-Profiles-Wizard Update](Screenshots/MoneFi-BPWCU-Fullscreen.png)
-
-<br>
 
 -Created a business profiles display component with search and filter functionality and built a front-end business profile creation wizard with React.js, implementing AJAX calls with Axios, and leveraging third-party libraries, including Loki, Formik, React-Bootstrap, and Yup for data validation.
 
