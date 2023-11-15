@@ -4,11 +4,12 @@ MoneFi is a dynamic fintech platform empowering minority and underprivileged bus
 and educational services, regardless of credit score.
 
 ![Business Profiles](Screenshots/MoneFi-BP-Fullscreen.png)
-![Business Profiles Details](Screenshots/MoneFi-BPD-Fullscreen.png)
-![Business Profiles Income](Screenshots/MoneFi-BPDI-Fullscreen.png)
-![Business Profiles Location](Screenshots/MoneFi-BPM-Fullscreen.png)
-![Business Profiles Wizard](Screenshots/MoneFi-BPW3-Fullscreen.png)
-![Business Profiles Wizard Update](Screenshots/MoneFi-BPWCU-Fullscreen.png)
+![Business-Profiles-Details](Screenshots/MoneFi-BPD-Fullscreen.png)
+![Business-Profiles-Income](Screenshots/MoneFi-BPDI-Fullscreen.png)
+![Business-Profiles-Location](Screenshots/MoneFi-BPM-Fullscreen.png)
+React Wizard component created with 3rd party library ![loki-react](https://github.com/JoaoCnh/react-loki)
+![Business-Profiles-Wizard](Screenshots/MoneFi-BPW3-Fullscreen.png)
+![Business-Profiles-Wizard Update](Screenshots/MoneFi-BPWCU-Fullscreen.png)
 
 <br>
 
