@@ -6,7 +6,7 @@ and educational services, regardless of credit score.
 ![Business Profiles](Screenshots/MoneFi-BP-Fullscreen.png)
 ![Business-Profiles-Details](Screenshots/MoneFi-BPD-Fullscreen.png)
 ![Business-Profiles-Income](Screenshots/MoneFi-BPDI-Fullscreen.png)
-![Business-Profiles-Location](Screenshots/MoneFi-BPM-Fullscreen.png)
+![Business-Profiles-Location](Screenshots/MoneFi-BPM1-Fullscreen.png)
 React wizard component created with third-party library [loki-react](https://github.com/JoaoCnh/react-loki)
 ![Business-Profiles-Wizard](Screenshots/MoneFi-BPW3-Fullscreen.png)
 ![Business-Profiles-Wizard Update](Screenshots/MoneFi-BPWCU-Fullscreen.png)
