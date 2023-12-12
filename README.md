@@ -9,9 +9,6 @@ and educational services, regardless of credit score.
 
 -Utilized .NET Core framework and C# to create custom models, domains, interfaces, and services. Designed RESTful API endpoints to enable robust connectivity between front-end and back-end components.
 
--Implemented user roles as a dropdown selection when registering with React.js, to allow the user to add multiple roles to their account, with all of the encompassing services and stored procedures.
-
-
 ![Business Profiles](Screenshots/MoneFi-BP-Fullscreen.png)
 ![Business-Profiles-Details](Screenshots/MoneFi-BPD-Fullscreen.png)
 ![Business-Profiles-Income](Screenshots/MoneFi-BPDI-Fullscreen.png)
