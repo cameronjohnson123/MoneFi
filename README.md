@@ -9,10 +9,9 @@ and educational services, regardless of credit score.
 
 -Utilized .NET Core framework and C# to create custom models, domains, interfaces, and services. Designed RESTful API endpoints to enable robust connectivity between front-end and back-end components.
 
-![Business Profiles](Screenshots/MoneFi-BP-Fullscreen.png)
-![Business-Profiles-Details](Screenshots/MoneFi-BPD-Fullscreen.png)
-![Business-Profiles-Income](Screenshots/MoneFi-BPDI-Fullscreen.png)
-![Business-Profiles-Location](Screenshots/MoneFi-BPM1-Fullscreen.png)
+![Business Profiles](Screenshots/1.jpg)
+![Business-Profiles-Details](Screenshots/2.jpg)
+![Business-Profiles-Location](Screenshots/3.jpg)
 React wizard component created with third-party library [loki-react](https://github.com/JoaoCnh/react-loki)
-![Business-Profiles-Wizard](Screenshots/MoneFi-BPW3-Fullscreen.png)
-![Business-Profiles-Wizard Update](Screenshots/MoneFi-BPWCU-Fullscreen.png)
+![Business-Profiles-Wizard](Screenshots/4.jpg)
+![Business-Profiles-Wizard Update](Screenshots/5.jpg)
